@@ -1,1 +1,2 @@
-# DjProject
+login:admin
+password:admin
